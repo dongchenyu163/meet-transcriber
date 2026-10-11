@@ -1,0 +1,2 @@
+--find-links https://k2-fsa.github.io/sherpa/onnx/cuda.html
+sherpa-onnx==1.13.8+cuda12.cudnn9

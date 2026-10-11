@@ -1,0 +1,13 @@
+numpy==1.26.4
+av>=18,<19
+SoundCard==0.4.2
+sounddevice>=0.5,<0.6
+faster-whisper==1.2.1
+PySide6>=6.8,<7
+httpx>=0.28,<0.29
+python-dotenv>=1.0,<2
+scipy>=1.11,<2
+sherpa-onnx==1.13.8
+mss>=10,<11
+Pillow>=10.4,<13
+pywin32>=306; sys_platform == 'win32'

@@ -1,0 +1,7 @@
+# Windows wheels provide CUDA 12 runtime libraries inside .venv.
+nvidia-cublas-cu12>=12,<13
+nvidia-cudnn-cu12>=9,<10
+nvidia-cuda-runtime-cu12>=12,<13
+nvidia-cuda-nvrtc-cu12>=12,<13
+nvidia-cufft-cu12>=11,<12
+nvidia-nvjitlink-cu12>=12,<13
